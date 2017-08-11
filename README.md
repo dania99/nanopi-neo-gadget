@@ -27,5 +27,5 @@ in the toplevel of the tree.
 
 ### Cross on x86 systems
 
-Just run `snapcraft`
+Just run `snapcraft` a gcc6 tooolchain will be pulled from linaro to cross build.
 
