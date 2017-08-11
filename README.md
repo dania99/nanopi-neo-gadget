@@ -27,13 +27,5 @@ in the toplevel of the tree.
 
 ### Cross on x86 systems
 
-Create an artful (17.10) chroot, install snapcraft and git inside it, chroot into it
-and clone this tree.
-
-Copy the crossbuild-snapcraft.yaml over snapcraft.yaml and run `snapcraft`
-
-```
-cp crossbuild-snapcraft.yaml snapcraft.yaml
-snapcraft
-```
+Just run `snapcraft`
 
