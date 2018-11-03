@@ -15,7 +15,7 @@ volumes:
         type: 0C
         filesystem: vfat
         filesystem-label: system-boot
-        size: 128M
+        size: 160M
         content:
           - source: initrd-extra.img
             target: initrd-extra.img
